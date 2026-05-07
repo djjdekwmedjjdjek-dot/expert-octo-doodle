@@ -48,8 +48,8 @@ Arqel.Appearance = {
 
 -- links
 Arqel.Links = {
-    GetKey = "",
-    Discord = ""
+    GetKey = "https://discord.gg/RyvAuMSpM",
+    Discord = "https://discord.gg/RyvAuMSpM"
 }
 
 -- storage
